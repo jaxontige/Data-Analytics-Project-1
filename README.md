@@ -8,43 +8,21 @@ Dmitriy Bachkala
 Jaxon Keller 
 Graciela Aguayo  
 
- 
-
 Project Description: 
-- Analyze the relationship between home prices, mortgage rates, treasury yield rate, and loan  .
-- What causational relationships exist between the 
+- Analyze the relationship between home prices, mortgage rates, treasury yield rate, and loan performance.
+- What causational relationships exist between these variables? 
 
+Mortgage Rates vs. Treasury Yields (Erica)
 Datasets:  
+- Federal Housing Finance Agency; Terms on Conventional Single Family Mortgages, Fixed-Rate 30-YEAR And 15-Year Non-Jumbo Loans; 1990-2019
+- US Department of the Treasury; Annual Daily Treasury Par Yield Curve Rates, 2006-2010
+  https://github.com/[jaxontige]/[Data-Analytics-Project-1]/blob/[main]/"Treasury and Mortgages".jpg?raw=true
 
-2005-2010 
-Quarterly Average/Median Home Prices 
-Quarterly Average Mortgage Rates 
-Quarterly Average Federal Funds Rate 
-Mortgage Amounts 
+Relationship between federal fund rates and mortgage performances (Jaxon) 
 
- 
+What is the relationship between mortgage rates and home prices? (Dmitriy) 
 
-August, 2023 
-US Real Estate, Per State/ZipCode 
-Mortgage Data 
-August, 2023 Federal Fund Rate 
+How have home prices trended in all 50 states? (Graciela)
 
- 
-
-Questions 2005-2010:  
-What is the correlation between federal yield rate and mortgage rates? - Erica  
-Relationship between federal fund rates and mortgage performances- Jaxon 
-
-What is the relationship between mortgage rates and home prices? -Dmitriy 
-
-Annual average home price 2005-2010 
-
-Annual average mortgage rate 2005-2010 
-
-Line figure 
-
-What is the rate of change in home prices when mortgage rates are raised or lowers?  
-
-Dmitriy (potentially change question) 
-
-Bar Chart of average home prices for: - Dmitriy 
+Conclusions: 
+ - There is a strong causational relationship between Treasury yield rates and mortgages rates. Even though this relationship weakens during times of great financial upheaval, the pvalue result of a ttest from 2006-2010 is pvalue=3.417893260344795e-20. 
