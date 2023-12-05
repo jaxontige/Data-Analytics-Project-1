@@ -26,7 +26,8 @@ Trends and fluctuations in mortage rates and home prices throughout the years 20
 How have home prices trended in all 50 states? (Graciela)
 
 Conclusions: 
- - There is a strong causational relationship between Treasury yield rates and mortgages rates. Even though this relationship weakens during times of great financial upheaval, the pvalue result of a ttest from 2006-2010 is pvalue=3.417893260344795e-20. 
+ - There is a strong causational relationship between Treasury yield rates and mortgages rates. Even though this relationship weakens during times of great financial upheaval, the pvalue result of a ttest from 2006-2010 is pvalue=3.417893260344795e-20.
+ - Throughout the years 2005 - 2010, the United States average HPI change shows us that prices of homes through 2005 - 2007 increased but as soon as we hit 2008, house prices started to decrease. This shows us that the best time for buyers was 2009-2010 and the best time for sellers was 2005-2006. 
 =======
 Cell one. Importing necessary modules for the code to run appropriately.
 
