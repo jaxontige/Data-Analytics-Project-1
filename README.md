@@ -16,7 +16,7 @@ Mortgage Rates vs. Treasury Yields (Erica)
 Datasets:  
 - Federal Housing Finance Agency; Terms on Conventional Single Family Mortgages, Fixed-Rate 30-YEAR And 15-Year Non-Jumbo Loans; 1990-2019
 - US Department of the Treasury; Annual Daily Treasury Par Yield Curve Rates, 2006-2010
-  https://github.com/[jaxontige]/[Data-Analytics-Project-1]/blob/[main]/"Treasury and Mortgages".jpg?raw=true
+ 
 
 Relationship between federal fund rates and mortgage performances (Jaxon) 
 
