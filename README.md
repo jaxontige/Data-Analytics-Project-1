@@ -20,7 +20,7 @@ Datasets:
 
 Relationship between federal fund rates and mortgage performances (Jaxon) 
 
-What is the relationship between mortgage rates and home prices? (Dmitriy) 
+Trends and fluctuations in mortage rates and home prices throughout the years 2006-2011? (Dmitriy) 
 
 How have home prices trended in all 50 states? (Graciela)
 
