@@ -13,6 +13,10 @@ Project Description:
 - Analyze the relationship between home prices, mortgage rates, treasury yield rate, and loan performance.
 - What causational relationships exist between these variables? 
 
+Trends and fluctuations in mortage rates and home prices throughout the years 2006-2011? (Dmitriy) 
+
+How have home prices trended in all 50 states? (Graciela)
+
 Mortgage Rates vs. Treasury Yields (Erica)
     Datasets:  
       - Federal Housing Finance Agency; Terms on Conventional Single Family Mortgages, Fixed-Rate 30-YEAR And 15-Year Non-Jumbo Loans; 1990-2019
@@ -38,10 +42,6 @@ Mortgage Rates vs. Treasury Yields (Erica)
      - However, a ttest demonstrated that even with the weaker correlation during the Great Financial Crisis, this period of data still maintained a the pvalue of 3.417893260344795e-20.
 
 Relationship between federal fund rates and mortgage performances (Jaxon) 
-
-Trends and fluctuations in mortage rates and home prices throughout the years 2006-2011? (Dmitriy) 
-
-How have home prices trended in all 50 states? (Graciela)
 
 Conclusions: 
  - There is a strong causational relationship between Treasury yield rates and mortgages rates. Even though this relationship weakens during times of great financial upheaval, there is still a strong overall correlation between these two datasets.
