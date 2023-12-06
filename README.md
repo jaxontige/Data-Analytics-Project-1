@@ -30,10 +30,12 @@ How have home prices trended in all 50 states? (Graciela)
 
 Mortgage Rates vs. Treasury Yields (Erica)
     Datasets:  
-      - Federal Housing Finance Agency; Terms on Conventional Single Family Mortgages, Fixed-Rate 30-YEAR And 15-Year Non-Jumbo Loans; 1990-2019
+      - Federal Housing Finance Agency; Terms on Conventional Single Family Mortgages, 
+        Fixed-Rate 30-YEAR And 15-Year Non-Jumbo Loans; 1990-2019
       - US Department of the Treasury; Annual Daily Treasury Par Yield Curve Rates, 2006-2010
       
-    To prepare the Treasury Yield data for analysis, there was a fair amount of cleanup involved. The process started with five individual datasets, one for each year.
+    To prepare the Treasury Yield data for analysis, there was a fair amount of cleanup involved. 
+    The process started with five individual datasets, one for each year.
     The cleanup process included:
       - Generating a monthly average rate within each dataset
       - Merge the 5 datasets into one
