@@ -27,7 +27,7 @@ Trends and fluctuations in mortage rates and home prices throughout the years 20
 
     AVERAGE HOME PRICE
 
-    Cell five. Extracting only the relevant columns and filtering the years for 2006-2010. Converting Year and Month into integers. Combining the Year and Month columns, then converting the new column "Month-Year" into datetime format. Calculating monthly average home       prices.
+    Cell five. Extracting only the relevant columns and filtering the years for 2006-2010. Converting Year and Month into integers. Combining the Year and Month columns, then converting the new column "Month-Year" into datetime format. Calculating monthly average home prices.
 
     Cell six. Plotting the home price. Adding the labels and titles. Displaying the plot.
 
