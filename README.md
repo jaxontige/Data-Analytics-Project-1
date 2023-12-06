@@ -57,6 +57,11 @@ Mortgage Rates vs. Treasury Yields (Erica)
 
 Relationship between federal fund rates and mortgage performances (Jaxon) 
 
+First analyzed multiple csv's, as the FHFA had a lot of performance statistics by state, national, or other filters. After pulling them in and viewing them as DataFrames, settled on the national dataset for analysis. 
+From there, filtered the rows by year, as well as by how far past due, and separated that data into different DataFrames. Grouped by date, and took averages on each DataFrame in order to plot the overall percentage of past due mortgages from 2006-2022, as well as breakdowns for 30 or 60 days past due, 90 or 180 days past due, or in forbearance.
+
+Once plotted, saved the figures into a "Figure" folder for reference. All data ended up coming from one CSV under Residential Mortgage Performance Statistics, Nati​onal, Census Regions, and Census Divisions at URL https://www.fhfa.gov/DataTools/Downloads/Pages/National-Mortgage-Database-Aggregate-Data.aspx
+
 Conclusions: 
  - The mortgage rate history exhibits stability pre-2008, followed by a sharp increase during the crisis.
     Post-crisis, rates gradually decrease from 2008 to 2010, marked by periodic jumps in the middle of each year.
