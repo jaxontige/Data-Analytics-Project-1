@@ -28,6 +28,13 @@ Trends and fluctuations in mortage rates and home prices throughout the years 20
 
 How have home prices trended in all 50 states? (Graciela)
 
+    Dataset:
+    
+      - Federal Housing Finance Agency; House Price Index Datasets -  Data
+    
+    The process to get the "2005-2010 HPI Change (Utah)" was:
+    First I had to downlaod the csv file and create a path. I then named it as data_5. I then used a loc to work with a each state. After obtaining that data I used another loc to get the years         between 2005 - 2010. I then used a loc to get the year for 2005 - 2010 individually and would take to average "annual_change" and created a data frame for these values. I did a bar chart for       Utah. I then had to merge these dataframes for all the states and created one bar chart. I also did a linear graph to show to outliars which turned out ot be Arizona, California, Florida.
+
 Mortgage Rates vs. Treasury Yields (Erica)
     Datasets:  
       - Federal Housing Finance Agency; Terms on Conventional Single Family Mortgages, 
