@@ -52,7 +52,8 @@ Mortgage Rates vs. Treasury Yields (Erica)
 
     Comparisons
      - Visually there is a strong visual correlation between the two datasets before the Great Financial Crisis. 
-     - However, a ttest demonstrated that even with the weaker correlation during the Great Financial Crisis, this period of data still maintained a the pvalue of 3.417893260344795e-20.
+     - However, a ttest demonstrated that even with the weaker correlation during the Great Financial Crisis, 
+        this period of data still maintained a the pvalue of 3.417893260344795e-20.
 
 Relationship between federal fund rates and mortgage performances (Jaxon) 
 
